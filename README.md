@@ -1,0 +1,90 @@
+Day 1 Notes: Python Basics and NumPy
+Topics covered : Python basics: variables, loops, functions, lists, dictionaries  
+NumPy: arrays, indexing, vector operations
+
+Completed Python basics and NumPy operations today. Practiced variables, loops, functions, and list handling in Python. 
+In NumPy, worked on array creation, slicing, broadcasting, reshaping, and statistical functions like mean and sum.
+
+Resources used: FreeCodeCamp Python Full Course and
+W3Schools for NumPy tutorials.
+---------------------------------------------------------------------------------------------------------
+
+Day 2: Pandas for Data Wrangling and EDA
+Will learn Pandas for Data Wrangling + EDA ,read/write CSVs, handle nulls, filter and group data, perform exploratory data analysis (EDA) on datasets.
+
+Learning Status:
+Practiced data wrangling using Pandas. Completed EDA on the Titanic dataset using describe(), 
+groupby, and visual summaries.
+----------------------------------------------------------------------------------------------------------
+
+Day 3: Data Visualization, Probability Distributions 
+Used Matplotlib and Seaborn for visualizations 
+Visualize distributions, understand normal/binomial distributions
+
+Day 3 was dedicated to learning data visualization using Matplotlib and Seaborn.
+I created various plots such as line charts, histograms, boxplots, and KDE plots.
+Alongside, I studied the basics of probability distributions, focusing on normal and binomial distributions.
+I generated simulated data using NumPy and visualized these distributions to understand how data behaves under different probabilistic models.
+---------------------------------------------------------------------------------------------------------
+
+Day 4: SQL and Hypothesis Testing 
+Topics:
+SQL queries: SELECT, JOIN, GROUP BY, HAVING 
+Basics of hypothesis testing: p-values, significance, t-tests 
+
+Learned hypothesis testing and applied one-sample t
+tests using SciPy in Python. 
+I studied the fundamentals of hypothesis testing—understanding null and alternative hypotheses, p-values, and significance levels.
+I also performed a two-sample t-test using Python's scipy.stats.ttest_ind() to determine whether two data samples had statistically significant differences.
+--------------------------------------------------------------------------------------------------------
+
+Day 5: Clustering and dimensionality reduction
+Unsupervised learning: K-Means, Dimensionality Reduction: PCA (Principal Component Analysis) 
+
+Implemented K-Meanson sample datasets. Applied PCA for reducing dimensions 
+and visualized results in 2D. 
+---------------------------------------------------------------------------------------------------------
+
+Day 6: A/B Testing with Time Series Forecasting 
+
+Understood A/B testing methodology. Performed basic time series analysis and forecasting using 
+moving averages and trends
+--------------------------------------------------------------------------------------------------------
+
+Day 7: Data Storytelling concepts and how to present insights clearly using visuals
+
+Learnt the basics of data storytelling and concepts of representing data using visuals
+Resources:
+Data Storytelling – Google Analytics
+-------------------------------------------------------------------------------------------------------
+
+Day 8 : Will do a simple project using technologies mentioned in the instructions
+
+Today I worked on a mini-project using the Titanic dataset to apply the concepts and technologies learned during the week. I performed the following tasks:
+Imported and explored the dataset (EDA) using Pandas and Seaborn. Visualized survival rates overall and by gender
+Cleaned the data by handling missing values and dropping irrelevant columns. Applied Label Encoding for categorical variables (Sex and Embarked)
+Built a classification model using Random Forest from scikit-learn. Evaluated the model with accuracy and classification report
+------------------------------------------------------------------------------------------------------
+
+Day 9 : Data Wrangling and Cleaning
+will learn more deeper and advanced techniques in data wrangling also cleaning, transforming, merging datasets
+
+Learning: 
+Handle missing data more efficiently. Advanced Pandas operations (merge, concatenate, reshape). Data cleaning using regular expressions and string functions 
+
+Studied advanced Data Wrangling and Cleaning using Pandas. Learned how to handle missing 
+data, merge datasets, and perform reshaping operations.
+-----------------------------------------------------------------------------------------------------
+
+Day 10: Data Warehousing (Snowflake) and Business Intelligence (BI) Tools
+Will learn how to store and manage large datasets in cloud data warehouses. 
+Introduction to Snowflake. Learn about data modeling and SQL in the context of data warehousing 
+Get hands-on with BI tools such as Tableau and Power BI. 
+
+Studied advanced Data Wrangling and Cleaning using Pandas. Learned how to handle missing 
+data, merge datasets, and perform reshaping operations.
+--------------------------------------------------------------------------------------------------
+
+Day 11: Data Pipelines (Apache Airflow) and Statistical Modeling.
+
+Will learn how to automate workflows using Apache Airflow and statistical modeling techniques used for analysis.
